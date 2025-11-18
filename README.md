@@ -51,7 +51,7 @@
 <p align="center">
   <img src="https://discord-readme-badge.vercel.app/api?id=1312603394189820064&large=true&username=SADRAPANAHI&animated=true&text=Join+the+dark+side" />
   <br>
-  <strong>Discord:</strong> SADRAPANAHI<br>
+  <strong>Discord:</strong> https://discord.gg/JDhXxg6k <br>
   <code>add me → SADRAPANAHI</code>
 </p>
 
